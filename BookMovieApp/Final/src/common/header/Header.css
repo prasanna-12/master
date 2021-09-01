@@ -1,0 +1,25 @@
+p{
+    height: 36px;
+   
+    background-color:#222;
+}
+p#pad{
+
+    padding: 8px 32px 8px 16px;
+}
+
+<Button variant="contained">Login</Button>
+<Button variant="contained" color="default">
+  Primary
+</Button>
+
+<Button variant="contained">Book show</Button>
+<Button variant="contained" color="primary">
+  Secondary
+</Button>
+<Button variant="contained" disabled>
+  Disabled
+</Button>
+<Button variant="contained" color= "default" href="#contained-buttons">
+  Link
+</Button>

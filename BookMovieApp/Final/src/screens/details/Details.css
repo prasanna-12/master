@@ -1,0 +1,10 @@
+<Button variant="contained">Book Show</Button>
+<Button variant="contained" color="primary">
+  Secondary
+</Button>
+<Button variant="contained" disabled>
+  Disabled
+</Button>
+<Button variant="contained" color= "default" href="#contained-buttons">
+  Link
+</Button>
